@@ -1,0 +1,4 @@
+baseURL = 'https://sanyuanya.github.io/'
+languageCode = 'en-us'
+title = '你可真丑'
+theme = "maupassant"

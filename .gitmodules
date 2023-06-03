@@ -1,0 +1,3 @@
+[submodule "hugo-theme-den"]
+	path = hugo-theme-den
+	url = https://github.com/sanyuanya/hugo-theme-den.git
