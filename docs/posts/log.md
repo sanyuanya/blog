@@ -2,28 +2,28 @@
 draft: false 
 date: 2024-01-31 
 categories:
-  - word1
+  - 日志
 comments: true
 authors: [sanyuanya]
 
 ---
 
-# Hello world!
+# 2024-9-2 星期一 下午16:50
 
-Material for MkDocs is a powerful documentation framework on top of MkDocs, a static site generator for project documentation.1 If you're familiar with Python, you can install Material for MkDocs with pip, the Python package manager. If not, we recommend using docker.
+外甥女很可爱，问我微信头像为什么下面是一坨屎，还给我起了一个新名字，她上周找了一群小朋友叫我玩蛋仔派对，这次回家答应和她玩的，但是没玩上，有点想她
 
 <!-- more -->
 
-``` py title="bubble_sort.py"
+<!-- ``` py title="bubble_sort.py"
 def bubble_sort(items):
     for i in range(len(items)):
         for j in range(len(items) - 1 - i):
             if items[j] > items[j + 1]:
                 items[j], items[j + 1] = items[j + 1], items[j]
-```
+``` -->
 
 
-=== "C"
+<!-- === "C"
 
     ``` c
     #include <stdio.h>
@@ -43,10 +43,10 @@ def bubble_sort(items):
       std::cout << "Hello world!" << std::endl;
       return 0;
     }
-    ```
+    ``` -->
 
 
-!!! note "Ensure pip always runs in a virtual environment"
+<!-- !!! note "Ensure pip always runs in a virtual environment"
 
     If you set the environment variable `PIP_REQUIRE_VIRTUALENV` to
     `true`, `pip` will refuse to install anything outside a virtual
@@ -61,9 +61,9 @@ def bubble_sort(items):
     ```
 
   [venv]: https://docs.python.org/3/library/venv.html
-  [venv-activate]: https://docs.python.org/3/library/venv.html#how-venvs-work
+  [venv-activate]: https://docs.python.org/3/library/venv.html#how-venvs-work -->
 
-
+<!-- 
 !!! warning "Theme extension prerequisites"
 
     As the [`custom_dir`][custom_dir] setting is used for the theme extension
@@ -75,4 +75,4 @@ def bubble_sort(items):
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    massa, nec semper lorem quam in massa. -->

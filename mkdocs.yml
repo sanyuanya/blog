@@ -1,7 +1,7 @@
 site_name: 你可真丑
 site_author: 你可真丑
-repo_url: https://github.com/sanyuanya/blog-
-repo_name: sanyuanya/blog-
+repo_url: https://github.com/sanyuanya/blog
+repo_name: sanyuanya/blog
 
 theme:
   name: material
